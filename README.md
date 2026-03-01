@@ -1,100 +1,103 @@
-<!-- ================= HEADER ================= -->
+<!-- ===================================================== -->
+<!--                    ELITE PROFILE                      -->
+<!-- ===================================================== -->
 
-<h1 align="center">⚡ Bala — AI-Driven Builder</h1>
+<h1 align="center">⚡ Bala — AI Systems Builder</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Problem+Solver;AI-Native+Creator;ERPNext+%26+System+Builder;Shipping+Ideas+into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&color=00F7FF&center=true&vCenter=true&width=750&lines=AI-Driven+Problem+Solver;ERPNext+%7C+System+Architect;Vibe+Coding+Practitioner;Shipping+Ideas+Into+Reality" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=baladante94&color=blueviolet&style=flat-square"/>
 </p>
 
 ---
 
-## 🧠 Who I Am
+## 🧠 Identity
 
-I’m not defined by certificates or traditional tech titles.
+I don’t chase titles.
 
-I build systems.
+I build **working systems**.
 
-I use **AI as a thinking partner** to design, iterate, and ship real solutions faster than conventional development.
+Modern creation isn’t about memorizing technology —  
+it’s about **thinking clearly + collaborating with AI + delivering outcomes**.
 
-💡 I believe modern creation is about:
+I use AI as a **thinking partner**, not a shortcut.
 
-- Understanding problems deeply
-- Using AI intelligently
-- Moving fast
-- Delivering working outcomes
-
-You can call it:
-
-✨ AI-Assisted Engineering  
-✨ Vibe Coding  
-✨ Practical System Building  
+> Systems over certificates.  
+> Execution over theory.
 
 ---
 
-## ⚙️ What I Actually Do
+## ⚙️ What I Build
 
-🚀 Build real business systems using ERPNext & Frappe  
-🤖 Design workflows powered by AI collaboration  
-📊 Create dashboards & operational tools  
-🔁 Automate repetitive business processes  
-🏗️ Turn messy ideas into structured systems
+🚀 Business systems using **ERPNext & Frappe**  
+🤖 AI-assisted workflows & automation  
+📊 Operational dashboards & analytics tools  
+🔁 Process automation for real companies  
+🏗️ Turning messy ideas → structured products
 
-I focus on **solutions**, not labels.
+I focus on solving problems that actually exist.
 
 ---
 
-## 🤖 My AI Stack
+## 🤖 AI Collaboration Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,git,github,linux,mysql" />
 </p>
 
-**Daily AI Partners**
+### Daily AI Partners
 
-- ChatGPT
-- Claude Code
-- Google Gemini
-- AI Debugging & Architecture Design
-- Rapid Prototype Building
+- ChatGPT — architecture & reasoning
+- Claude Code — deep debugging & refactoring
+- Google Gemini — research & iteration
+- AI-assisted rapid prototyping
+- System design through dialogue
 
-AI is not a shortcut — it’s my multiplier.
+⚡ AI is my multiplier.
 
 ---
 
-## 🔥 Current Mission
+## 🔥 Current Direction
 
-- Building production ERP systems
 - AI-first development workflows
-- Learning through real deployments
-- Shipping consistently
+- Production ERP deployments
+- Automation-driven operations
+- Continuous shipping mindset
 
 ---
 
-## 📦 Projects & Experiments
+## 📦 Systems & Experiments
 
-🛒 **Supermarket Operations ERP**
-- Smart Restocking
-- Stall Refill Automation
-- Supervisor Dashboards
+### 🛒 Supermarket Operations ERP
+- Smart Restocking Engine  
+- Stall Refill Automation  
+- Supervisor Dashboards  
 
-🏨 **BookMyRoom**
-- Room reservation system built on Frappe
+### 🏨 BookMyRoom
+Room reservation platform built on Frappe.
 
-🗿 **Stone Enquiry System**
-- Custom workflow → Customer → Quotation → Sales pipeline
+### 🗿 Stone Enquiry System
+Customer → Workflow → Quotation → Sales pipeline automation.
 
-More systems coming continuously.
+More systems evolving continuously.
 
 ---
 
-## 📊 Activity
+## 📊 Live Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baladante94&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=baladante94&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baladante94&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=baladante94&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=baladante94&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -105,7 +108,8 @@ More systems coming continuously.
 > Systems show capability.
 
 I learn by building.  
-I grow by solving real problems.
+I grow by solving real-world problems.  
+I iterate faster using AI collaboration.
 
 ---
 
@@ -116,11 +120,13 @@ I grow by solving real problems.
 ---
 
 <p align="center">
-  ⚡ Built with curiosity + persistence + AI collaboration ⚡
+⚡ Built with curiosity + persistence + AI collaboration ⚡
 </p>
 
-<!-- ================= FOOTER ================= -->
+<!-- ===================================================== -->
+<!--                 CONTRIBUTION SNAKE                    -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=baladante94&color=blueviolet&style=flat-square"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
